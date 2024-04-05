@@ -3,7 +3,6 @@ public class HelloWorld {
         String result = methode(8);
         System.out.println(result);
     }
-
     public static String methode(int getal) {
         String tekst = "";
         for (int i = 0; i < getal; i++) {
